@@ -1,0 +1,14 @@
+fieldset{
+    border-radius: 20px;
+}
+button{
+    background-color: rgb(255, 255, 255);
+text-align: center;
+margin-left: 46%;
+width: 100PX;
+height: 40PX;
+font-size: large;
+}
+body{
+    background-color: rgb(199, 29, 94);
+}
